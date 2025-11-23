@@ -131,19 +131,19 @@ project/
 git clone https://github.com/manognya66/BountyWizard.git
 cd BountyWizard
 ```
-### **2. npm install
+### 2. npm install
 ```sh
   npm install
 ```
-### **3. Start development
+### 3. Start development
 ```sh
   npm run dev
 ```
-### **4. Build production
+### 4. Build production
 ```sh
   npm run build
 ```
-### **5. Start production
+### 5. Start production
 ```sh
   npm start
 ```
