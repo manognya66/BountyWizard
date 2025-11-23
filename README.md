@@ -17,7 +17,7 @@ This application allows users to create a bounty using a **structured 3-step wor
 - Mode (Digital / Physical)  
 - Location + radius (if physical)
 
-### **2️⃣ Backer (Optional)**
+### **2️⃣ Backer**
 - Add a backer/sponsor name  
 - Upload logo  
 - Custom message  
