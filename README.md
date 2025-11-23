@@ -147,4 +147,5 @@ cd BountyWizard
 ```sh
   npm start
 ```
-Hosted on Vercel:  
+
+Hosted on Vercel:  https://bounty-wizard-git-main-shashanks-projects-f0fb40d9.vercel.app/wizard/step/1
